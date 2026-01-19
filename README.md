@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - 🌱 Always learning new frameworks and tools
 - 👯 Open to collaborations on interesting open-source projects
 - 💬 Ask me about JavaScript, Python, or cloud technologies
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [bhimonw1503@gmail.com](mailto:bhimonw1503@gmail.com)
 - ⚡ Fun fact: I can code for hours fueled by coffee and curiosity!
 
 ## 🛠️ Technologies & Tools
@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ![CattellMax's GitHub stats](https://github-readme-stats.vercel.app/api?username=CattellMax&show_icons=true&theme=radical)
 
+<!--
 ## 🌟 Featured Projects
 
 - [Project 1](https://github.com/CattellMax/project1) - A cool web app
@@ -42,3 +43,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ---
 
 ⭐️ From [CattellMax](https://github.com/CattellMax)
+--!>
